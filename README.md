@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Zixia I am trying to make online funtional os in web such as MacOS I am a begining coder so I fork projects and add some things.
+- 👋 Hi, I’m Zixia I love minecraft and eaglercraft I have made tons of eaglercraft projects I am a 5th grader and loves to code if you like my projects consider staring it and following me!
 - I am 10 years old
