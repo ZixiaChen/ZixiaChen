@@ -1,2 +1,9 @@
-- 👋 Hi, I’m Zixia I love minecraft and eaglercraft I have made tons of eaglercraft projects I am a 5th grader and loves to code if you like my projects consider staring it and following me!
-- I am 10 years old
+# About me
+
+### 11 year old coder in 5th grade
+### loves Eaglercraft and Minecraft
+### loves science
+
+# Languages I know
+### html
+### css
