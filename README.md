@@ -7,3 +7,7 @@
 # Languages I know
 ### html
 ### css
+
+# Other things
+### Has YT channel: XxZixiaxX @ZixiaC61
+### Has Discord: Zixia_Pro
