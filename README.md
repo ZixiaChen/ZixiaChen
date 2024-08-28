@@ -1,6 +1,6 @@
 # About me
 
-### 11 year old coder in 5th grade
+### 11 year old coder in 6th grade
 ### loves Eaglercraft and Minecraft
 ### loves science
 
