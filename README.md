@@ -2,6 +2,7 @@
 - 11 years old
 - loves science
 - in 6th grade
+- front-end developer
 ## **Languages, tools, and other software I use:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,bash,replit,discord)](#)
 
