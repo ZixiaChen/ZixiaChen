@@ -7,9 +7,9 @@
 
 ## Github Stats 
 
- [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=cobblesteve01&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=cobblesteve01&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=XxZixiaxX&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=XxZixiaxX&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=cobblesteve01&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=XxZixiaxX&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 # Other things
 ### Has YT channel: XxZixiaxX @ZixiaC61
