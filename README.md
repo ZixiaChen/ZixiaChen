@@ -3,7 +3,7 @@
 - loves science
 - in 6th grade
 ## **Languages, tools, and other software I use:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,bash,replit,gitea,youtube,discord)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,bash,replit,discord)](#)
 
 ## Github Stats 
 
